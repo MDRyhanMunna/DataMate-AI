@@ -1,0 +1,8 @@
+streamlit>=1.42
+pandas
+openpyxl
+xlrd
+requests
+beautifulsoup4
+pdfplumber
+lxml
