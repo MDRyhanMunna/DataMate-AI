@@ -126,7 +126,7 @@ def developer_settings():
             "developer",
             "portfolio",
             "DATAMATE_PORTFOLIO_URL",
-            "https://rayhanswork.lovable.app",
+            "https://mdryhanmunna.netlify.app/#about",
         ),
     }
 
